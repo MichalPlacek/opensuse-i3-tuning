@@ -1,0 +1,4 @@
+#!/bin/bash
+
+# screen off after 1 sec
+i3lock -i ~/.config/wallpaper/1440x1080.png && sleep 1 && xset s activate
